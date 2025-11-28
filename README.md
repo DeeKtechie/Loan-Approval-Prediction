@@ -8,8 +8,8 @@ Simulate approval scores based on user-defined inputs
 Visualize model performance and feature contributions
 Whether you're a data analyst, business stakeholder, or curious learner, this notebook will guide you through:
 
-Importing data
-Cleaning data
+1. Importing data
+2. Cleaning data
 Exploration
 Visualization
 Machine Learning
