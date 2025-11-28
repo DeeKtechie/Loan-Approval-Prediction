@@ -1,0 +1,12 @@
+feature,importance
+credit_score,0.8116
+loan_term,0.0635
+loan_amount,0.026
+income_annum,0.0171
+commercial_assets_value,0.016
+luxury_assets_value,0.0158
+residential_assets_value,0.0152
+bank_asset_value,0.0149
+no_of_dependents,0.0084
+education,0.0065
+self_employed,0.0049
